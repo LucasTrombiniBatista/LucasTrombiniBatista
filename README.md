@@ -1,9 +1,9 @@
-# Lucas Trombini
+# Lucas Trombini B.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucastrombinib)
 [![Portfólio](https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucastrombinibatista.github.io/)
 
-Oi! Sou desenvolvedor de software em Jundiaí, SP. Me formei em Análise e Desenvolvimento de Sistemas e hoje trabalho na Engenharia Digital da Motiva Rodovias. Meu dia a dia é pegar processos que tomam tempo das pessoas e transformar em automação: plugins para as ferramentas Autodesk, dashboards em Power BI e pequenas ferramentas internas.
+Oi! Sou desenvolvedor de software em Jundiaí, SP. Me formei em Análise e Desenvolvimento de Sistemas e hoje trabalho na Engenharia Digital da Motiva Rodovias. Meu dia a dia é pegar processos que tomam tempo das pessoas e transformar em automação: plugins para as ferramentas Autodesk, dashboards em Power BI e ferramentas internas.
 
 ## No que estou focado agora
 
